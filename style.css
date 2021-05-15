@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  align-content: center;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: black;
+  color: whitesmoke;
+  margin: 10px auto;
+  padding: 5px;
+}
+.navbar {
+  background-color: black;
+  color: white;
+}
+
+.navbar ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar ul li {
+  list-style: none;
+  color: blue;
+  border-bottom: 2px solid white;
+}
+
+.navbar ul li:hover {
+  cursor: pointer;
+  color: white;
+  border-bottom: 2px solid aqua;
+}
+
+.content {
+  color: whitesmoke;
+  background: url("./coronavirus.jpg") center no-repeat;
+  background-position: left;
+}
+
+.intro {
+  padding: 10px;
+  margin: auto;
+  background: transparent;
+}
+
+.blur {
+  filter: blur(21px);
+}
+
+.intro h4 {
+  opacity: 1;
+  line-height: 25px;
+  width: 75%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+}
+
+.links {
+  display: flex;
+  margin: 5px;
+  padding: 2px 0px;
+  text-align: center;
+  justify-content: space-around;
+  background-color: rgb(85, 243, 85);
+}
+
+.links a {
+  text-decoration: none;
+  color: darkblue;
+}
+.links a h3 {
+  margin: 8px;
+}
+
+.links a:hover {
+  color: white;
+  cursor: pointer;
+}
+
+footer {
+  margin-top: 50px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 2px;
+}
