@@ -39,6 +39,7 @@ header {
   color: whitesmoke;
   background: url("./coronavirus.jpg") center no-repeat;
   background-position: left;
+  height:80vh;
 }
 
 .intro {
