@@ -37,17 +37,14 @@ header {
  */
 .content {
   color: whitesmoke;
-  background: url("./coronavirus.jpg");
+  background: url("./coronavirus.jpg") center;
   background-position: left;
-  height:80vh;
 }
 
 .intro {
   padding: 10px;
   margin: auto;
-  background: transparent;
 }
-
 
 .intro h4 {
   line-height: 25px;
