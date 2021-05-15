@@ -37,7 +37,7 @@ header {
  */
 .content {
   color: whitesmoke;
-  background: url("./coronavirus.jpg") center no-repeat;
+  background: url("./coronavirus.jpg");
   background-position: left;
   height:80vh;
 }
@@ -50,7 +50,6 @@ header {
 
 
 .intro h4 {
-  opacity: 1;
   line-height: 25px;
   width: 75%;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
