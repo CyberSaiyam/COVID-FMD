@@ -47,9 +47,6 @@ header {
   background: transparent;
 }
 
-.blur {
-  filter: blur(21px);
-}
 
 .intro h4 {
   opacity: 1;
