@@ -13,7 +13,7 @@ header {
   margin: 10px auto;
   padding: 5px;
 }
-.navbar {
+/* .navbar {
   background-color: black;
   color: white;
 }
@@ -34,7 +34,7 @@ header {
   color: white;
   border-bottom: 2px solid aqua;
 }
-
+ */
 .content {
   color: whitesmoke;
   background: url("./coronavirus.jpg") center no-repeat;
