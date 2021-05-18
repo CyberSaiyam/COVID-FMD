@@ -13,41 +13,20 @@ header {
   margin: 10px auto;
   padding: 5px;
 }
-/* .navbar {
-  background-color: black;
-  color: white;
-}
 
-.navbar ul {
-  display: flex;
-  justify-content: space-around;
-}
-
-.navbar ul li {
-  list-style: none;
-  color: blue;
-  border-bottom: 2px solid white;
-}
-
-.navbar ul li:hover {
-  cursor: pointer;
-  color: white;
-  border-bottom: 2px solid aqua;
-}
- */
 .content {
   color: whitesmoke;
-  background: url("./coronavirus.jpg") center no-repeat;
+  background: url("./coronavirus.jpg") center ;
   background-position: left;
 }
 
 .intro {
   padding: 10px;
-  margin: auto;
+  margin: 5px;
 }
 
 .intro h4 {
-  line-height: 25px;
+  line-height: 26px;
   width: 75%;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
