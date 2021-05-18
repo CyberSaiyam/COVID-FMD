@@ -37,7 +37,7 @@ header {
  */
 .content {
   color: whitesmoke;
-  background: url("./coronavirus.jpg") center;
+  background: url("./coronavirus.jpg") center no-repeat;
   background-position: left;
 }
 
